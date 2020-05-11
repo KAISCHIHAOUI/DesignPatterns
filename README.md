@@ -1,2 +1,2 @@
 # DesignPatterns
-We want to help communities creating clean code ...
+## We want help community solving commun solutions.
