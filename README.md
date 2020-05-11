@@ -1,2 +1,2 @@
 # DesignPatterns
-## We want help community solving commun solutions.
+We want help community solving commun solutions.
